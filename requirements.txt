@@ -1,0 +1,4 @@
+youtube-search-python
+pytubefix
+pytchat
+python-vlc
