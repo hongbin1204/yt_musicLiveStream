@@ -13,8 +13,5 @@ DOWNLOAD_PATH = "/Users/hb/Documents/downloads"
 # array of recognized user
 SAVED_USERS = ["Beans"]
 
-# threading event use to stop a current running play_audio thread 
-STOP_EVENT = threading.Event()
-
 # video id of the livestream
-VIDEO_ID = "1OLiFLlGTq0"
+VIDEO_ID = "0_c0lH28tEg"
